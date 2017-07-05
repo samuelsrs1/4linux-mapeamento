@@ -1,4 +1,4 @@
-# 4linux-mapeamento
+# linux-mapeamento de Servidores
 Script onde faz mapeamento de servidores! (Feito em Python).
 
 Para executa-lo é necessário o python instalado em sua maquina!
